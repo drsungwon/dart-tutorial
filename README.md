@@ -5,7 +5,6 @@
 <br>
 <a href="https://github.com/drsungwon/dartlang-tutorial/blob/master/beprogrammer-01.md">1. Tutorial 개요</a><br>
 <a href="https://github.com/drsungwon/dartlang-tutorial/blob/master/beprogrammer-02.md">2. 왜 Dart 언어를 선택했는가?</a><br>
-<br>
 <!-- wp:image {"id":267,"align":"right","width":137,"height":49} -->
 <div class="wp-block-image"><figure class="alignright is-resized"><img src="http://mobilelab.khu.ac.kr/wordpress/wp-content/uploads/2020/01/b05-1.jpg" alt="" class="wp-image-267" width="137" height="49"/></figure></div>
 <!-- /wp:image -->
