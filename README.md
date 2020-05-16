@@ -4,7 +4,7 @@ Dart 언어를 통해서 Full Stack 프로그래머가 되도록 하는 Tutorial
 원본은 <a href="http://mobilelab.khu.ac.kr/">경희대학교 이성원 교수</a> 웹사이트에서도 볼 수 있으며, 주1회 정도로 내용 업데이트시 목차도 함께 업데이트 됩니다.<br>
 <br>
 <a href="https://github.com/drsungwon/dartlang-tutorial/blob/master/doc/dart-tutorial-01.md">1. Tutorial 개요</a><br>
-<a href="https://github.com/drsungwon/dartlang-tutorial/blob/master/doc/doc/dart-tutorial-02.md">2. 왜 Dart 언어를 선택했는가?</a><br>
+<a href="https://github.com/drsungwon/dartlang-tutorial/blob/master/doc/dart-tutorial-02.md">2. 왜 Dart 언어를 선택했는가?</a><br>
 <a href="https://github.com/drsungwon/dartlang-tutorial/blob/master/doc/dart-tutorial-03.md">3. 개발 환경 구축하기</a><br>
 <a href="https://github.com/drsungwon/dartlang-tutorial/blob/master/doc/dart-tutorial-04.md">4. C++ 프로그래머를 위한 Quick Summary Part.1</a><br>
 <a href="https://github.com/drsungwon/dartlang-tutorial/blob/master/doc/dart-tutorial-05.md">5. C++ 프로그래머를 위한 Quick Summary Part.2</a><br>
