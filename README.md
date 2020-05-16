@@ -17,7 +17,9 @@ Dart 언어를 통해서 Full Stack 프로그래머가 되도록 하는 Tutorial
 <a href="https://github.com/drsungwon/dartlang-tutorial/blob/master/dart-tutorial-12.md">12. Dart 기초문법 - Functions</a><br>
 <a href="https://github.com/drsungwon/dartlang-tutorial/blob/master/dart-tutorial-13.md">13. MS Visual Code를 통한 Debug</a><br>
 <a href="https://github.com/drsungwon/dartlang-tutorial/blob/master/dart-tutorial-14.md">14. Dart 기초문법 - Class 사용하기</a><br>
-<a href="https://github.com/drsungwon/dartlang-tutorial/blob/master/dart-tutorial-15.md">15. Dart 기초문법 - List/a><br>
+<a href="https://github.com/drsungwon/dartlang-tutorial/blob/master/dart-tutorial-15.md">15. Dart 기초문법 - List</a><br>
+<a href="https://github.com/drsungwon/dartlang-tutorial/blob/master/dart-tutorial-16.md">16. Dart 기초문법 - Set</a><br>
+<a href="https://github.com/drsungwon/dartlang-tutorial/blob/master/dart-tutorial-17.md">17. Dart 기초문법 - Map</a><br>
 
 <br>
 <!-- wp:image {"id":267,"align":"right","width":137,"height":49} -->
