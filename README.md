@@ -20,7 +20,6 @@ Dart 언어를 통해서 Full Stack 프로그래머가 되도록 하는 Tutorial
 <a href="https://github.com/drsungwon/dartlang-tutorial/blob/master/dart-tutorial-15.md">15. Dart 기초문법 - List</a><br>
 <a href="https://github.com/drsungwon/dartlang-tutorial/blob/master/dart-tutorial-16.md">16. Dart 기초문법 - Set</a><br>
 <a href="https://github.com/drsungwon/dartlang-tutorial/blob/master/dart-tutorial-17.md">17. Dart 기초문법 - Map</a><br>
-<br>
 <p>
 < 공개 예정 ><br>
 18. Dart 기초문법 - Useful Dart Features<br>
