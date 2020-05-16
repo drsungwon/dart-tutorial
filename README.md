@@ -22,38 +22,40 @@ Dart 언어를 통해서 Full Stack 프로그래머가 되도록 하는 Tutorial
 <a href="https://github.com/drsungwon/dartlang-tutorial/blob/master/dart-tutorial-17.md">17. Dart 기초문법 - Map</a><br>
 <br>
 <p>
-[18] Dart 기초문법 - Useful Dart Features<br>
-[19] Dart 기초문법 - Exception Handling<br>
-[20] Dart 기초문법 - Making Class, Part.1<br>
-[21] Dart 기초문법 - Making Class, Part.2<br>
-[22] Dart 기초문법 - Making Class, Part.3<br>
-[23] Dart 기초문법 - Console I/O (Input & Output)<br>
-[24] Dart 기초문법 - Generics<br>
-[25] Dart 기초문법 - Asynchrony Support<br>
-[26] Dart 기초문법 - Library & File/Stream/Process<br>
-[27] HTTP Client와 Server 개발 - Basic HTTP Server & Frameworks<br>
-[28] HTTP Client와 Server 개발 - GET & POST in HTTP Server<br>
-[29] HTTP Client와 Server 개발 - HTTP Client Development<br>
-[30] Flutter 활용하기 - Ice Break & References<br>
-[31] Flutter 활용하기 - Hello World!<br>
-[32] Flutter 활용하기 - Understanding Widgets<br>
-[33] Flutter 활용하기 - StatelessWidget Example<br>
-[34] Flutter 활용하기 - StatefulWidget Example<br>
-[35] Flutter 활용하기 - Skeleton Program for Future Usage<br>
-[36] Web & Desktop 개발 - Introduction<br>
-[37] Web 개발 - Development Environment<br>
-[38] Web 개발 - “Hello, World!” Dart web-only app<br>
-[39] Web 개발 - “Hello, World!” Flutter multi-platform web app<br>
-[40] Web 개발 - Flutter for Web : History & Roadmap<br>
-[41] Web 개발 - Flutter for Web : Login UI Example<br>
-[42] Web 개발 - Dart for Web<br>
-[43] Web 개발 - AngularDart for Web<br>
-[44] Desktop 개발 - Flutter for Desktop (macOS, Windows, Linux)<br>
-[45] Container 개발 - Dart HTTP Server over Docker, Part.1<br>
-[46] Container 개발 - Dart HTTP Server over Docker, Part.2<br>
-[47] Wrap-up<br>
-[48] Flutter 1.17.0 @ 2020.05.07<br>
-[49] Dart 2.8.1 @ 2020.05.06<br>
+< 공개 예정 ><br>
+18. Dart 기초문법 - Useful Dart Features<br>
+19. Dart 기초문법 - Exception Handling<br>
+20. Dart 기초문법 - Making Class, Part.1<br>
+21. Dart 기초문법 - Making Class, Part.2<br>
+22. Dart 기초문법 - Making Class, Part.3<br>
+23. Dart 기초문법 - Console I/O (Input & Output)<br>
+24. Dart 기초문법 - Generics<br>
+25. Dart 기초문법 - Asynchrony Support<br>
+26. Dart 기초문법 - Library & File/Stream/Process<br>
+27. HTTP Client와 Server 개발 - Basic HTTP Server & Frameworks<br>
+28. HTTP Client와 Server 개발 - GET & POST in HTTP Server<br>
+29. HTTP Client와 Server 개발 - HTTP Client Development<br>
+30. Flutter 활용하기 - Ice Break & References<br>
+31. Flutter 활용하기 - Hello World!<br>
+32. Flutter 활용하기 - Understanding Widgets<br>
+33. Flutter 활용하기 - StatelessWidget Example<br>
+34. Flutter 활용하기 - StatefulWidget Example<br>
+35. Flutter 활용하기 - Skeleton Program for Future Usage<br>
+36. Web & Desktop 개발 - Introduction<br>
+37. Web 개발 - Development Environment<br>
+38. Web 개발 - “Hello, World!” Dart web-only app<br>
+39. Web 개발 - “Hello, World!” Flutter multi-platform web app<br>
+40. Web 개발 - Flutter for Web : History & Roadmap<br>
+41. Web 개발 - Flutter for Web : Login UI Example<br>
+42. Web 개발 - Dart for Web<br>
+43. Web 개발 - AngularDart for Web<br>
+44. Desktop 개발 - Flutter for Desktop (macOS, Windows, Linux)<br>
+45. Container 개발 - Dart HTTP Server over Docker, Part.1<br>
+46. Container 개발 - Dart HTTP Server over Docker, Part.2<br>
+47. Wrap-up<br>
+48. Flutter 1.17.0 @ 2020.05.07<br>
+49. Dart 2.8.1 @ 2020.05.06<br>
+-- to be continued --
 </p>
 <!-- wp:image {"id":267,"align":"right","width":137,"height":49} -->
 <div class="wp-block-image"><figure class="alignright is-resized"><img src="http://mobilelab.khu.ac.kr/wordpress/wp-content/uploads/2020/01/b05-1.jpg" alt="" class="wp-image-267" width="137" height="49"/></figure></div>
