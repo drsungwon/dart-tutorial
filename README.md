@@ -20,13 +20,13 @@ Dart 언어를 통해서 Full Stack 프로그래머가 되도록 하는 Tutorial
 <a href="https://github.com/drsungwon/dartlang-tutorial/blob/master/doc/dart-tutorial-15.md">15. Dart 기초문법 - List</a><br>
 <a href="https://github.com/drsungwon/dartlang-tutorial/blob/master/doc/dart-tutorial-16.md">16. Dart 기초문법 - Set</a><br>
 <a href="https://github.com/drsungwon/dartlang-tutorial/blob/master/doc/dart-tutorial-17.md">17. Dart 기초문법 - Map</a><br>
+<a href="https://github.com/drsungwon/dartlang-tutorial/blob/master/doc/dart-tutorial-18.md">18. Dart 기초문법 - Useful Dart Features</a><br>
+<a href="https://github.com/drsungwon/dartlang-tutorial/blob/master/doc/dart-tutorial-19.md">19. Dart 기초문법 - Exception Handling</a><br>
+<a href="https://github.com/drsungwon/dartlang-tutorial/blob/master/doc/dart-tutorial-20.md">20. Dart 기초문법 - Making Class, Part.1</a><br>
+<a href="https://github.com/drsungwon/dartlang-tutorial/blob/master/doc/dart-tutorial-21.md">21. Dart 기초문법 - Making Class, Part.2</a><br>
+<a href="https://github.com/drsungwon/dartlang-tutorial/blob/master/doc/dart-tutorial-22.md">22. Dart 기초문법 - Making Class, Part.3</a><br>
 <p>
 < 공개 예정 ><br>
-18. Dart 기초문법 - Useful Dart Features<br>
-19. Dart 기초문법 - Exception Handling<br>
-20. Dart 기초문법 - Making Class, Part.1<br>
-21. Dart 기초문법 - Making Class, Part.2<br>
-22. Dart 기초문법 - Making Class, Part.3<br>
 23. Dart 기초문법 - Console I/O (Input & Output)<br>
 24. Dart 기초문법 - Generics<br>
 25. Dart 기초문법 - Asynchrony Support<br>
