@@ -1,6 +1,4 @@
-<!-- wp:heading {"level":4} -->
-<h4>&lt; Dart 기초문법 - Making Class - Part.2 &gt;</h4>
-<!-- /wp:heading -->
+# Dart 기초문법 - Making Class - Part.2 
 
 <!-- wp:paragraph -->
 <p>앞서의 글을 통해서 기본적인 클래스의 개발과 subclass 개발을 학습하였습니다. 이 글은 후반부에 해당하는 글로써, 앞서 개발한 Point와 ColorPoint 클래스를 그대로 사용할 예정입니다. 이런 개념을 재사용(reuse)이라고 합니다. 하나의 프로그램이 계속 길어지는 것을 방지하기 위하여, 만들어 놓은 그대로 사용할 Point와 ColorPoint의 소스 코드만 아래의 darttutorial-21-00.dart 처럼 분리하겠습니다. main()이 없기에 자체적으로 실행은 불가하며, 이후 darttutorial-21-01.dart에서 재활용할 계획입니다. </p>
