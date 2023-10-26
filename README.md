@@ -27,7 +27,7 @@ Dart 언어를 통해서 Full Stack 프로그래머가 되도록 하는 Tutorial
 <a href="https://github.com/drsungwon/dartlang-tutorial/blob/master/doc/dart-tutorial-22.md">22. Dart 기초문법 - Making Class, Part.3</a><br>
 <p>
 본 게시글은 다음의 사이트를 통해서 연재를 이어 갑니다.<br>
-<a href="http://mobilelab.khu.ac.kr/wordpress/beprogrammer/d">[ Dart & Flutter 게시글 보기 (2023.10 기준) ]</a><br>
+<a href="http://mobilelab.khu.ac.kr/wordpress/beprogrammer/">[ Dart & Flutter 게시글 보기 (2023.10 기준) ]</a><br>
 </p>
 <!-- wp:image {"id":267,"align":"right","width":137,"height":49} -->
 <div class="wp-block-image"><figure class="alignright is-resized"><img src="http://mobilelab.khu.ac.kr/wordpress/wp-content/uploads/2020/01/b05-1.jpg" alt="" class="wp-image-267" width="137" height="49"/></figure></div>
